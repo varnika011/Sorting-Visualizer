@@ -22,4 +22,9 @@ Features:
   2.3) Generation of new data (Randomly generate new data).
 4) Time and Space complexity of algorithm being visualized.
 
-Take a look at live version: 
+## Snapshot
+![Screenshot 2025-01-29 225922](https://github.com/user-attachments/assets/0eb9ef49-b901-4e9a-9ff3-07b641844900)
+
+
+
+ 
