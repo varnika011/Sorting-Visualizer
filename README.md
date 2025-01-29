@@ -1,4 +1,4 @@
-# Sorting_Visualizer BY Arpit Gaur
+# Sorting_Visualizer BY Varnika Saraswat
 
 A web application showcasing the inner workings of sorting algorithms.
 
